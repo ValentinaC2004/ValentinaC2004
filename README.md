@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Valentina Cossio</h1>
-<h3 align="center">Desarrolladora de software apasionada de Colombia</h3>
 
 <p align="left">
 </p>

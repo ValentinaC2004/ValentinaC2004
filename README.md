@@ -83,9 +83,6 @@ const mydev = {
 
 </div>
 
-
-
-<br>
 <hr>
 <p>
   <a href="#">

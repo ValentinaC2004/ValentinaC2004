@@ -21,6 +21,8 @@ const mydev = {
 
 ## - 👩🏻‍💻 Skills & aptitudes 🔥
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinac2004&" alt="valentinac2004" align="right" />
+
 <div align="left">
 	
 - 💻 &nbsp;
@@ -43,11 +45,8 @@ const mydev = {
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinac2004&" alt="valentinac2004" align="right" />
   
 </div>
-<br/>
-
 
   
   <!--

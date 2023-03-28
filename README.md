@@ -5,7 +5,7 @@
 ```js
 const mydev = {
   pronouns: "she",
-  bd: "mysql"
+  bd: "mysql",
   code: [JavasCript,HTML/CSS,Python],
   tools: [Django,Bootstrap,React Native,Materialize,Marvel]
 }

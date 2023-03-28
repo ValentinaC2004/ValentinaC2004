@@ -11,19 +11,45 @@ const mydev = {
 }
 
 ```
-<img src="https://adalab.es/wp-content/uploads/2022/08/icon_tabs_classes.png" align="right" />
-
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  
 <div align="left">
   
 ![valentinac2004 github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
 
 </div>
 
-<div >
-  <p>
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-  <p>
-</div> 
+## - 👩🏻‍💻 Skills & aptitudes 🔥
+	
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinac2004&" alt="valentinac2004" align="right" />
+  
+<div align="left">
+	
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+ 
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=pink)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;
+  
+
+</div>
+<br/>
+
+
   
   <!--
 ## - 🔭 Personal Programs
@@ -60,12 +86,6 @@ const mydev = {
 </div>
 
 
-<p>
-  
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinac2004&" alt="valentinac2004" align="center" />
-  
-</p>
 
 <br>
 <hr>
